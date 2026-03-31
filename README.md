@@ -20,3 +20,15 @@ In order to create an initial professional online presence, I decided to create 
 <br>
 <br>
 In the next four years, I plan to utilize these platforms as my personal portfolio where I will showcase my growth as a developer. First, on GitHub, I will regularly update my Python and C++ assignments as well as my personal AI/ML projects to showcase my programming skills to potential employers. Secondly, on LinkedIn, I plan to utilize the platform as my personal gateway to various internship opportunities through various tech-related networks. Lastly, on Kaggle, I will utilize the platform to enhance my machine learning skills from basic to advanced levels. By creating these profiles during my college days, I will be able to transform from an amateur student to a professional with an online presence that reflects my passion for artificial intelligence.
+Here is a draft project report for Task 3, covering both the coding practice and collaboration tool requirements within a 150- to 200-word range.
+<br>
+<br>
+<br>
+<br>
+Task 3 – Coding and Collaboration Platforms
+<br>
+<br>
+To accomplish this task, I utilized **HackerRank** for programming practice and **Google Workspace** for digital collaboration. I took the "Python Introduction" challenge on HackerRank, where I had to implement basic arithmetic and logical operations. This challenge allowed me to practice logical thinking and translate them into clean, executable codes. For the collaboration tool, I created a "Digital Literacy Awareness Quiz" consisting of five questions using **Google Forms**. This form contained multiple-choice questions on cybersecurity awareness and short-answer questions on digital tool preferences, where the answers will be analyzed using **Google Sheets**.
+<br>
+<br>
+Both tools are essential tools for my academic progress. HackerRank enables me to fill the gap between theoretical knowledge and actual application, ensuring I am competitive in programming challenges and HackerRank competitions. Likewise, mastering **Google Workspace** enables me to participate actively in group projects with my batchmates. This is a critical skill in today's research and academic reporting, where collaboration is key to producing quality work. By utilizing these tools, I am building a strong foundation for competitive programming and collaborative scholarship.
