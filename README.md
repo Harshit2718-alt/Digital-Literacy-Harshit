@@ -32,3 +32,17 @@ To accomplish this task, I utilized **HackerRank** for programming practice and 
 <br>
 <br>
 Both tools are essential tools for my academic progress. HackerRank enables me to fill the gap between theoretical knowledge and actual application, ensuring I am competitive in programming challenges and HackerRank competitions. Likewise, mastering **Google Workspace** enables me to participate actively in group projects with my batchmates. This is a critical skill in today's research and academic reporting, where collaboration is key to producing quality work. By utilizing these tools, I am building a strong foundation for competitive programming and collaborative scholarship.
+As a response to Task 4, here is a report entry focusing on a hypothetical yet common professional situation, keeping in mind the **100–150 word** limit.
+<br>
+<br>
+<br>
+<br>
+Task 4 – Professional Communication and Etiquette
+<br>
+<br>
+Part(B) poor digital communication
+<br>
+A common situation in which digital communication can cause a great problem is when a person commits a 'Reply All' mistake in a professional context. A hypothetical situation can be given in which a student sends a complaint regarding a course to a mailing list of a department instead of a trusted friend. This lack of digital etiquette can cause a student a bad reputation in academic circles and create unwanted tensions between teachers and students.
+<br>
+<br>
+To avoid a similar situation in the future, a student should make sure he/she has correctly addressed the recipient before clicking 'Send.' Moreover, a student should abide by digital etiquette by practicing 'Pause Before Posting,' a principle in which a person should wait at least five minutes before clicking 'Send' when he/she is about to send a message in which he/she is upset. A student should also use a subject line and a formal tone in a message even when he/she is writing a message in a private context.
