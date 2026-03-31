@@ -64,3 +64,19 @@ A common situation in which digital communication can cause a great problem is w
 <br>
 <br>
 To avoid a similar situation in the future, a student should make sure he/she has correctly addressed the recipient before clicking 'Send.' Moreover, a student should abide by digital etiquette by practicing 'Pause Before Posting,' a principle in which a person should wait at least five minutes before clicking 'Send' when he/she is about to send a message in which he/she is upset. A student should also use a subject line and a formal tone in a message even when he/she is writing a message in a private context.
+Gemini said
+Here is a concise breakdown for your project report, keeping each part within the 100-word range as requested.
+<br>
+<br>
+<br>
+<br>
+Part A: Cyberbullying Case Study 
+<br>
+<br>
+Cyberbullying is a digital crime where a perpetrator harasses a victim through social platforms intentionally and repeatedly. This digital crime starts when a perpetrator stalks a victim's profile to obtain information. Next, they create "shadow" accounts to impersonate victims. After that, they share morphed images or rumors to socially isolate victims. This digital crime mainly affects college students, leading to mental and educational deterioration. For perpetrators, this digital crime leads to legal and professional consequences, such as a three-year jail sentence, as prescribed by the Bharatiya Nyaya Sanhita (BNS). They also face rustication from their educational institutions.
+<br>
+<br>
+Part B: Prevention Checklist Summary
+<br>
+<br>
+To prevent digital crimes, college students must be "Security First" to stay safe digitally. This includes locking social media profiles, using Two-Factor Authentication, and never sharing OTPs. For financial safety, a UPI PIN is only to be used for sending money, not to receive money. Additionally, direct messages must be verified through a secondary channel before responding to them. Lastly, if a digital crime is encountered, it must be immediately reported to the National Cyber Crime Portal at cybercrime.gov.in or dial 1930 to ensure legal action is initiated.
