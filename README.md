@@ -45,7 +45,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSc2R1S4Z8S3G592WTBizKLRpMFpG4PYfAQj5mwl
 Task 4 – Professional Communication and Etiquette
 <br>
 <br>
-Part(A) 
+Part(A)  Professional Emails
 <br>
 <br>
 enters on the mastery of professional correspondence in the context of two high-stakes academic and career-based scenarios.
@@ -81,7 +81,7 @@ Part A: Cyberbullying Case Study
 Cyberbullying is a digital crime where a perpetrator harasses a victim through social platforms intentionally and repeatedly. This digital crime starts when a perpetrator stalks a victim's profile to obtain information. Next, they create "shadow" accounts to impersonate victims. After that, they share morphed images or rumors to socially isolate victims. This digital crime mainly affects college students, leading to mental and educational deterioration. For perpetrators, this digital crime leads to legal and professional consequences, such as a three-year jail sentence, as prescribed by the Bharatiya Nyaya Sanhita (BNS). They also face rustication from their educational institutions.
 <br>
 <br>
-Part B: Prevention Checklist Summary
+Part B: Prevention Checklist
 <br>
 <br>
 To prevent digital crimes, college students must be "Security First" to stay safe digitally. This includes locking social media profiles, using Two-Factor Authentication, and never sharing OTPs. For financial safety, a UPI PIN is only to be used for sending money, not to receive money. Additionally, direct messages must be verified through a secondary channel before responding to them. Lastly, if a digital crime is encountered, it must be immediately reported to the National Cyber Crime Portal at cybercrime.gov.in or dial 1930 to ensure legal action is initiated.
