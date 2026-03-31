@@ -55,9 +55,11 @@ The first task entails writing a formal request to a professor for an assignment
 The next task entails writing an internship inquiry letter to a corporate coordinator. In this task, the key is being concise by stating skills and interest in the company, as well as being "action-oriented" by being respectful in tone. The drafts are assessed based on the clarity of the subject line, formal greetings, and formal closings, which prove that the power of concise communication lies in being well-organized rather than being long-winded in the explanation.
 <br>
 <br>
-Part(b)(!)
+Part(b)(1) DO's and Don't
 <br>
 As a Student Digital Ambassador, I came up with this checklist to guide my batchmates on the gray areas between their personal and professional online life. While the "Do's" section is centered on building one’s online reputation, it includes activities such as flaunting academic achievements and connecting with industry experts. On the other hand, the "Don'ts" section is based on the main mistakes to avoid, including venting online, which may cause identity theft. Having a clean digital footprint is as important as having a resume, and this checklist is meant to be a useful guide for the student to turn his/her online life into a force to be reckoned with.
+<br>
+<br>
 Part(B)(2) poor digital communication
 <br>
 A common situation in which digital communication can cause a great problem is when a person commits a 'Reply All' mistake in a professional context. A hypothetical situation can be given in which a student sends a complaint regarding a course to a mailing list of a department instead of a trusted friend. This lack of digital etiquette can cause a student a bad reputation in academic circles and create unwanted tensions between teachers and students.
@@ -68,6 +70,9 @@ Gemini said
 Here is a concise breakdown for your project report, keeping each part within the 100-word range as requested.
 <br>
 <br>
+<br>
+<br>
+Task-5 Cybercrime Awareness Case Study & Prevention 
 <br>
 <br>
 Part A: Cyberbullying Case Study 
