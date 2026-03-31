@@ -1,5 +1,6 @@
 # Digital-Literacy-Harshit
-Project Report: Task 1 – Digital Literacy Awareness Infographic
+ Task 1 – Digital Literacy Awareness Infographic
+<br>
 <br>
 In fulfilling this task, I have utilized Canva to create a one-page visual resource that aims to create awareness on digital literacy among my peers. The versatility of Canva, particularly in terms of educational design templates, has enabled me to create a professional-grade visual resource that effectively combines text and visual elements.
 <br>
@@ -8,3 +9,14 @@ My design has focused on three fundamental pillars of digital literacy: defining
 <br>
 <br>
 The aspect of design that I found particularly interesting was the "CRAP" rule of graphic design, where "CRAP" stands for "Contrast, Repetition, Alignment, and Proximity." I found this to be a particularly interesting aspect of design, where I had to ensure that my design was "scan-able" for my target audience, ensuring that they could quickly grasp the importance of internet safety protocols.
+<br>
+<br>
+<br>
+<br>
+Task 2 – Student Digital Portfolio
+<br>
+<br>
+In order to create an initial professional online presence, I decided to create my profiles on GitHub, LinkedIn, and Kaggle. All these platforms play an important role in my professional life. GitHub is my repository where I will host my open-source projects, while LinkedIn is my professional networking site where I will connect with various experts in the field. Lastly, Kaggle is my platform where I will participate in various competitions related to data science.
+<br>
+<br>
+In the next four years, I plan to utilize these platforms as my personal portfolio where I will showcase my growth as a developer. First, on GitHub, I will regularly update my Python and C++ assignments as well as my personal AI/ML projects to showcase my programming skills to potential employers. Secondly, on LinkedIn, I plan to utilize the platform as my personal gateway to various internship opportunities through various tech-related networks. Lastly, on Kaggle, I will utilize the platform to enhance my machine learning skills from basic to advanced levels. By creating these profiles during my college days, I will be able to transform from an amateur student to a professional with an online presence that reflects my passion for artificial intelligence.
