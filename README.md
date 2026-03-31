@@ -1,5 +1,12 @@
 # Digital-Literacy-Harshit
- Task 1 – Digital Literacy Awareness Infographic
+Project:- Digital Literacy
+<br>
+Author:- Harshit Singhal
+<br>
+<br>
+<br>
+<br>
+Task 1 – Digital Literacy Awareness Infographic
 <br>
 <br>
 In fulfilling this task, I have utilized Canva to create a one-page visual resource that aims to create awareness on digital literacy among my peers. The versatility of Canva, particularly in terms of educational design templates, has enabled me to create a professional-grade visual resource that effectively combines text and visual elements.
